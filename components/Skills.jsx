@@ -49,6 +49,48 @@ export default function Skills() {
 
   const certificates = [
     {
+      name: "Getting Started with Cisco Packet Tracer",
+      issuer: "Cisco Networking Academy",
+      date: "March 3, 2026",
+      image: "/certificates/packet-cert.png",
+      link: "https://www.netacad.com/certificates/?issuanceId=d47a795a-8ca0-4ec6-a2cb-4b3aab11fc87"
+    },
+    {
+      name: "Introduction to Modern AI",
+      issuer: "Cisco Netwokring Academy",
+      date: "March 4, 2026",
+      image: "/certificates/ai-cert.png",
+      link: "https://www.netacad.com/certificates/?issuanceId=49afd4af-94d5-4e83-ab65-828b6f846416"
+    },
+    {
+      name: "Data Science Essentials with Python",
+      issuer: "Cisco Networking Academy",
+      date: "March 12, 2026",
+      image: "/certificates/dse-python-cert.png",
+      link: "https://www.netacad.com/certificates/?issuanceId=4b1aaa99-5e5e-4850-90b1-a8bfc0e2fdd6"
+    },
+    {
+      name: "JavaScript Essential 1",
+      issuer: "Cisco Networking Academy with OpenEDG JavaScript Institute",
+      date: "March 19, 2026",
+      image: "/certificates/je1-cert.png",
+      link: "https://www.netacad.com/certificates/?issuanceId=958dd866-503d-4f09-b228-25dfaa5575da"
+    },
+    {
+      name: "CHED RAISE 2026",
+      issuer: "CHED",
+      date: "February 26 & 27, 2026",
+      image: "/certificates/chedraise-cert.png",
+      link: "#"
+    },
+    {
+      name: "Fundamentals of Photoshop and Design Workshop",
+      issuer: "Filamer Christian University",
+      date: "February 5, 2026",
+      image: "#",
+      link: "#"
+    },
+    {
       name: "CCS Layout: From Float to Flexbox and Grid",
       issuer: "Linkedin Learning",
       date: "2025",
