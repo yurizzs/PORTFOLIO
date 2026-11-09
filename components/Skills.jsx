@@ -66,7 +66,7 @@ export default function Skills() {
       name: "Certificate of Participation - The Why Behind AI",
       issuer: "WVSU - CICT",
       date: "October 9, 2026",
-      image: "/certificates/whyAI-certjpg",
+      image: "/certificates/whyAI-cert.jpg",
       link: "#"
     },
     {
