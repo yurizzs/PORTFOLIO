@@ -52,28 +52,28 @@ export default function Skills() {
       name: "Certificate of Participation - LINK, LEARN, LIVE: IoT in Daily Life and Industry",
       issuer: "WVSU - CICT",
       date: "October 16, 2026",
-      image: "/certificates/IoT-cert.png",
+      image: "/certificates/IoT-cert.jpg",
       link: "#"
     },
     {
       name: "Certificate of Participation - Philippines Startup Challenge XI",
       issuer: "DICT - Philippine Startup Challenge",
       date: "October 14, 2026",
-      image: "/certificates/startup-cert.png",
+      image: "/certificates/startup-cert.jpg",
       link: "#"
     },
     {
       name: "Certificate of Participation - The Why Behind AI",
       issuer: "WVSU - CICT",
       date: "October 9, 2026",
-      image: "/certificates/whyAI-cert.png",
+      image: "/certificates/whyAI-certjpg",
       link: "#"
     },
     {
       name: "Certificate of Achievement - WordCamp Philippines 2026",
       issuer: "WordCamp Philippines",
       date: "August 29, 2026",
-      image: "/certificates/wcp-cert.png",
+      image: "/certificates/wcp-cert.jpg",
       link: "#"
     },
     {
