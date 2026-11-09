@@ -34,7 +34,7 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-row sm:flex-row gap-3 sm:gap-4 justify-center items-center mb-8 sm:mb-12 px-4">
-            <a href="/profile/Yu-CombinationResume.pdf" download>
+            <a href="/profile/YU_IRISTIFFANY_BSIT-4C.pdf" download>
             <Button
               className="w-full sm:w-auto bg-accent !text-grey-50 hover:text-grey-50 dark:text-grey-500 hover:bg-accent-hover font-semibold px-6 sm:px-8 py-5 sm:py-6 text-base sm:text-lg"
               >
