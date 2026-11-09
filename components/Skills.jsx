@@ -49,6 +49,55 @@ export default function Skills() {
 
   const certificates = [
     {
+      name: "Certificate of Participation - LINK, LEARN, LIVE: IoT in Daily Life and Industry",
+      issuer: "WVSU - CICT",
+      date: "October 16, 2026",
+      image: "/certificates/IoT-cert.png",
+      link: "#"
+    },
+    {
+      name: "Certificate of Participation - Philippines Startup Challenge XI",
+      issuer: "DICT - Philippine Startup Challenge",
+      date: "October 14, 2026",
+      image: "/certificates/startup-cert.png",
+      link: "#"
+    },
+    {
+      name: "Certificate of Participation - The Why Behind AI",
+      issuer: "WVSU - CICT",
+      date: "October 9, 2026",
+      image: "/certificates/whyAI-cert.png",
+      link: "#"
+    },
+    {
+      name: "Certificate of Achievement - WordCamp Philippines 2026",
+      issuer: "WordCamp Philippines",
+      date: "August 29, 2026",
+      image: "/certificates/wcp-cert.png",
+      link: "#"
+    },
+    {
+      name: "Networking Basics",
+      issuer: "Cisco Networking Academy",
+      date: "August 7, 2026",
+      image: "/certificates/netbasic-cert.png",
+      link: "https://www.netacad.com/recognitions/verify/e2c6a935-6e77-4b06-8967-f6f4bb2e42fa"
+    },
+    {
+      name: "Certificate of Participation - THINK AI International Webinar",
+      issuer: "Teachmint",
+      date: "July 17, 2026",
+      image: "/certificates/thinkai-cert.png",
+      link: "#"
+    },
+    {
+      name: "Certificate of Completion - World Youth Skills Day Summer Camp 2026",
+      issuer: "UNEVOC Visayas Center Philippines",
+      date: "July 10, 2026",
+      image: "/certificates/wysd-cert.png",
+      link: "#"
+    },
+    {
       name: "Getting Started with Cisco Packet Tracer",
       issuer: "Cisco Networking Academy",
       date: "March 3, 2026",
@@ -124,6 +173,13 @@ export default function Skills() {
       date: "2025",
       image: "/certificates/wadwhani-cert.jpg",
       link:"https://web.certificate.wfglobal.org/en/certificate?certificateId=69395af749e895be1f168493"
+    },
+    {
+      name: "Certificate of Participation 2025 RSTW in Western Visayas",
+      issuer: "DOST - RSTW",
+      date: "September 11, 2025",
+      image: "/certificates/rstw-cert.png",
+      link: "https://events.onedo.st/visitors/cert/32917163510"
     },
     {
       name: "JavaScript: Security Essentials",
