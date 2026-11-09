@@ -94,7 +94,7 @@ export default function Skills() {
       name: "Certificate of Completion - World Youth Skills Day Summer Camp 2026",
       issuer: "UNEVOC Visayas Center Philippines",
       date: "July 10, 2026",
-      image: "/certificates/wysd-cert.png",
+      image: "/certificates/wysd-cert.jpg",
       link: "#"
     },
     {
